@@ -1,0 +1,7 @@
+pyserial
+numpy
+matplotlib
+scipy
+mpmath
+tqdm
+scikit-image
